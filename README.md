@@ -1,4 +1,4 @@
-# doorkeeper-mongodb extension
+# doorkeeper-nobrainer extension
 
 ## Installation
 
